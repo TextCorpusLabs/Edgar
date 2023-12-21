@@ -9,4 +9,4 @@ If you want to run them in [Google's CoLab](https://colab.research.google.com/),
 
 | Date Updated | Description |
 | --- | --- |
-| 2023/12/20 | [Get 10-K data from EDGAR](Get 10-Ks.ipynb) |
+| 2023/12/20 | [Get 10-K data from EDGAR](Get%2010-Ks.ipynb) |
