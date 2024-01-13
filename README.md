@@ -1,7 +1,6 @@
-# Do the thing!
+# EDGAR
 
-I have things that need done sometimes, but not frequently enough to _exactly_ remember them.
-This is an attempt to keep sufficient notes to be able to replicate the process.
+Access various parts of EDGAR of processing in other projects.
 
 The jupyter notebooks are run in [VSCode](https://code.visualstudio.com/Download).
 If you want to run them in [Google's CoLab](https://colab.research.google.com/), you may need to make modification.
@@ -9,4 +8,4 @@ If you want to run them in [Google's CoLab](https://colab.research.google.com/),
 
 | Date Updated | Description |
 | --- | --- |
-| 2024/01/05 | [Get 10-K data from EDGAR](./Edgar/10-K/GetData.ipynb) |
+| 2024/01/12 | [Get 10-K data from EDGAR](./10-K/GetData.ipynb) |
