@@ -8,4 +8,5 @@ If you want to run them in [Google's CoLab](https://colab.research.google.com/),
 
 | Date Updated | Description |
 | --- | --- |
-| 2024/01/12 | [Get 10-K data from EDGAR](./10-K/GetData.ipynb) |
+| 2024/01/12 | [Get Symbols from the SEC](./GetSymbols.ipynb) |
+| 2024/01/12 | [Get 10-K from EDGAR](./Get10-Ks.ipynb) |
