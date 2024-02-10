@@ -13,7 +13,7 @@ We use [7-zip](https://www.7-zip.org) to accommodate GitHub's 2GB limitation.
 
 | Date | Link |
 | --- | --- |
-| 2024/02/10 | [10-K](./Create 10-K Corpus.ipynb) |
+| 2024/02/10 | [10-K](/Create%2010-K%20Corpus.ipynb) |
 
 ## Requirements
 
